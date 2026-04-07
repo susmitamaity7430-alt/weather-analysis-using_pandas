@@ -1,0 +1,37 @@
+# 📊 Sales Data Analysis Project
+
+## 📌 Objective
+The goal of this project is to analyze sales data and find useful insights.
+
+## 🛠 Tools Used
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+
+## 📂 Dataset
+The dataset contains sales information like product, price, quantity, and date.
+
+## 📊 Analysis Performed
+- Data Cleaning
+- Handling missing values
+- GroupBy operations
+- Data visualization using charts
+
+## 📈 Key Insights
+- Highest sales in December
+- Top selling product: Laptop
+- Region with highest sales: West
+
+## 📷 Sample Output
+(Add screenshots here)
+
+## 🚀 How to Run
+1. Install Python
+2. Install libraries:
+   pip install pandas numpy matplotlib
+3. Open Jupyter Notebook
+4. Run all cells
+
+## 📌 Conclusion
+This project helps understand sales trends and business decisions.
